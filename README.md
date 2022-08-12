@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Project Guide
 
 - Type your name in the Name field and you Age in the age field.
-- Clicking `Submit` will parse the data to userData and push the data to the parent component and render out the inputed data.
+- Clicking `Submit` will parse the data to `userData` and push the data to the parent component and render out the inputed data.
 
 ### How it works
 
